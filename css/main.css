@@ -1,0 +1,20 @@
+h1{
+    color: white;
+}
+body{
+    background-color: rgb(110, 196, 184);
+}
+
+a{
+    text-decoration: none;
+    color:rgb(255, 255, 255);
+    background-color:black ;
+    border-radius:100px ;
+    padding: 10px 10px 10px 10px;
+}
+
+
+.vid {
+    width:  50%;
+    height: 50%;
+}
